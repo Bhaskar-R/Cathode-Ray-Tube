@@ -22,7 +22,7 @@ To run the project, follow these steps:
 
 2. Clone the repository to your local machine
 
-3. Compile the source code using: 'g++ main.cpp -o crt -lGL -lGLU -lglut'
+3. Compile the source code using: `g++ main.cpp -o crt -lGL -lGLU -lglut`
 
 4. Run the executable file generated
 
