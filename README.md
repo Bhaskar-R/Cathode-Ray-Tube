@@ -24,7 +24,7 @@ To run the project, follow these steps:
 
 3. Compile the source code using: `g++ main.cpp -o crt -lGL -lGLU -lglut`
 
-4. Run the executable file generated
+4. Run the executable file generated: `./crt`
 
 ## Contributions
 
